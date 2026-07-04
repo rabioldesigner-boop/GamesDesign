@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7db8e45de40bae34aa413d41ea107b72, type: 3}
+  m_Name: Topic_WhyBuiltIt
+  m_EditorClassIdentifier: Assembly-CSharp::TombOfServilii.TopicData
+  topicTitle: Why was it built?
+  contentText: Like many Roman tombs along major consular roads, it was built outside
+    the city walls (due to Roman law) to preserve the memory of the deceased, showcase
+    the family's patrician status, wealth, and civic contributions to travelers entering
+    Rome.
+  narrationClip: {fileID: 0}
+  subtitleText: It was built outside the city walls to preserve memory and showcase
+    the family's patrician status.

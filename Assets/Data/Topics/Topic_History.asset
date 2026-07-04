@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7db8e45de40bae34aa413d41ea107b72, type: 3}
+  m_Name: Topic_History
+  m_EditorClassIdentifier: Assembly-CSharp::TombOfServilii.TopicData
+  topicTitle: Historical Importance
+  contentText: Standing along the Via Appia, the tomb has witnessed centuries of
+    Roman history. Today, its ruins offer modern archaeologists vital insights into
+    Roman engineering, burial laws, artistic customs, and the social stratification
+    of Roman nobility.
+  narrationClip: {fileID: 0}
+  subtitleText: Standing along the Via Appia, the tomb offers insights into Roman
+    engineering and customs.

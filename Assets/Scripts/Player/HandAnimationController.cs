@@ -15,10 +15,15 @@ namespace TombOfServilii
         {
             animator = GetComponent<Animator>();
             characterController = GetComponentInParent<CharacterController>();
+            if (characterController == null)
+            {
+                // Fallback: search the scene for the player's CharacterController
+                characterController = GameObject.FindObjectOfType<CharacterController>();
+            }
 
             if (characterController == null)
             {
-                Debug.LogWarning("HandAnimationController: No CharacterController found in parent hierarchy!");
+                Debug.LogWarning("HandAnimationController: No CharacterController found in the parent hierarchy or the scene!");
             }
 
             if (handVisualRoot == null)

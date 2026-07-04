@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7db8e45de40bae34aa413d41ea107b72, type: 3}
+  m_Name: Topic_WhatIsIt
+  m_EditorClassIdentifier: Assembly-CSharp::TombOfServilii.TopicData
+  topicTitle: What is it?
+  contentText: The Tomb of the Servilii is a historic monument located along the
+    ancient Via Appia in Rome. It represents a typical Roman aristocratic family
+    tomb, constructed during the late Republic and early Empire to house the remains
+    of the distinguished Servilia family.
+  narrationClip: {fileID: 0}
+  subtitleText: The Tomb of the Servilii is a historic monument located along the
+    ancient Via Appia in Rome.
